@@ -21,9 +21,5 @@ The page includes sections for:
 1.  **Features:** Visual breakdown of the earbuds' capabilities.
 2.  **Demo:** Video showcase of the product in action.
 3.  **Pricing/Sign-up:** A contact form for potential customers.
-
 ##  How to Use
-
-1. Clone the repository:
-
 
