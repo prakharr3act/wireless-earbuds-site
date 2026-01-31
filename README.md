@@ -15,7 +15,7 @@ A modern, responsive product landing page designed to showcase the R3A Wireless 
 * **HTML5:** Semantic structure for better SEO and accessibility.
 * **CSS3:** Custom styling for a premium, tech-focused aesthetic.
 
-## 📸 Preview
+##  Preview
 
 The page includes sections for:
 1.  **Features:** Visual breakdown of the earbuds' capabilities.
