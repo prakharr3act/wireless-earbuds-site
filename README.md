@@ -26,4 +26,4 @@ The page includes sections for:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/r3a-landing-page.git](https://github.com/your-username/r3a-landing-page.git)
+
