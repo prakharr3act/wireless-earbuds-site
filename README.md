@@ -22,7 +22,7 @@ The page includes sections for:
 2.  **Demo:** Video showcase of the product in action.
 3.  **Pricing/Sign-up:** A contact form for potential customers.
 
-## 📝 How to Use
+##  How to Use
 
 1. Clone the repository:
    ```bash
