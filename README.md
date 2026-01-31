@@ -2,7 +2,7 @@
 
 A modern, responsive product landing page designed to showcase the R3A Wireless Earbuds. This project focuses on clean UI, smooth navigation, and clear calls to action.
 
-## 🚀 Features
+## Features
 
 * **Responsive Design:** Fully optimized for mobile, tablet, and desktop screens.
 * **Sticky Navigation:** Easy access to different sections of the page.
