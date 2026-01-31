@@ -25,5 +25,5 @@ The page includes sections for:
 ##  How to Use
 
 1. Clone the repository:
-   ```bash
+
 
