@@ -10,7 +10,7 @@ A modern, responsive product landing page designed to showcase the R3A Wireless 
 * **Lead Generation:** A functional "Get Notified" form for user subscriptions.
 * **Feature Highlights:** Highlighting technical specs like battery life and audio quality.
 
-## 🛠️ Built With
+##  Built With
 
 * **HTML5:** Semantic structure for better SEO and accessibility.
 * **CSS3:** Custom styling for a premium, tech-focused aesthetic.
